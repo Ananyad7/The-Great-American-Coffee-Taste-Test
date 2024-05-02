@@ -3,6 +3,7 @@
 Report link: https://app.powerbi.com/view?r=eyJrIjoiMzA4NTdmZjUtMjI4NS00NjliLWFhOWEtMGYwNDAxYWY1OTM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 It is an online challenge hosted by Maven Analytics
+
 Tool used: Power BI
 
 In 2023, Cometeer collaborated with YouTube coffee expert James Hoffmann for The Great American Coffee Taste Test. 5,000 pre-extracted and flash-frozen coffee kits were shipped nationwide, containing four varieties. Participants, guided by James in a YouTube livestream on October 21st, 2023, conducted blind tastings and ratings. Demographic and coffee-related questions were included to analyze results.
