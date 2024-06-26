@@ -1,10 +1,10 @@
 # The-Great-American-Coffee-Taste-Test
 
-Report link: https://app.powerbi.com/view?r=eyJrIjoiMzA4NTdmZjUtMjI4NS00NjliLWFhOWEtMGYwNDAxYWY1OTM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Report link: <a href="https://app.powerbi.com/view?r=eyJrIjoiMzA4NTdmZjUtMjI4NS00NjliLWFhOWEtMGYwNDAxYWY1OTM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Link</a>
 
-It is an online challenge hosted by Maven Analytics
+# Tool used: Power BI
 
-Tool used: Power BI
+It is an online challenge hosted by Maven Analytics!!
 
 In 2023, Cometeer collaborated with YouTube coffee expert James Hoffmann for The Great American Coffee Taste Test. 5,000 pre-extracted and flash-frozen coffee kits were shipped nationwide, containing four varieties. Participants, guided by James in a YouTube livestream on October 21st, 2023, conducted blind tastings and ratings. Demographic and coffee-related questions were included to analyze results.
 
@@ -22,4 +22,7 @@ Note: The total number of participants in this survey is 4042, with around 50% o
 5. The market has two main segments based on spending: Moderate spenders ($20-$40 monthly) prioritize affordability and variety. Target them with mid-priced coffees emphasizing value. Higher spenders ($40-$60 monthly) value quality and uniqueness. Offer them specialty coffees with a focus on taste profiles and origin stories.
 6. 25% of participants are willing to spend $8-$10 on a cup of coffee, indicating a segment willing to pay premium prices for quality or specialty coffee. This segment could be targeted with premium offerings, specialty blends, artisanal brewing methods, and upscale ambiance in coffee shops.
 
-Linkedin link: https://www.linkedin.com/posts/7ananyadas_powerbi-datavisualization-mavenanalytics-activity-7174028100341493763-M8Gv?utm_source=share&utm_medium=member_desktop
+Linkedin link: <a href="https://www.linkedin.com/posts/7ananyadas_powerbi-datavisualization-mavenanalytics-activity-7174028100341493763-M8Gv?utm_source=share&utm_medium=member_desktop" target="_blank">Link</a>
+
+
+
